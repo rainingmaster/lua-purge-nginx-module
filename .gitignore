@@ -1,0 +1,8 @@
+*.swp
+*.swo
+*~
+t/servroot/
+reindex
+*.t_
+tags
+.perl-version
